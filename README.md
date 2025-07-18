@@ -6,7 +6,10 @@
 
 <div style="display:flex; align-items:center;">
   <a href="https://www.linkedin.com/in/shontzu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
-  <img src="https://wakatime.com/badge/user/59a6ed31-da11-42f9-b270-6ab97f335d44.svg?style=plastic&color=red" align=left>
+<!--   <img src="https://wakatime.com/badge/user/d8654b72-91a4-4d83-b540-a0f9beb83dce.svg" align=left> -->
+  <a href="https://wakatime.com/@d8654b72-91a4-4d83-b540-a0f9beb83dce">
+    <img src="https://wakatime.com/badge/user/d8654b72-91a4-4d83-b540-a0f9beb83dce.svg" alt="Total time coded since Jul 18 2025" />
+  </a>
 
   <img src="https://komarev.com/ghpvc/?username=shontzu-techfinity&style=plastic&color=red&label=visits" align=right>
   <img src="https://img.shields.io/twitter/follow/shontzu_?label=twitter&logo=twitter&color=red&style=plastic" align=right>
